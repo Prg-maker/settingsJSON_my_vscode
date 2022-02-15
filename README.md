@@ -1,8 +1,15 @@
 # settingsJSON_my_vscode
-settings vscode 
+
+
+
+
+
 
 
 {
+
+
+
     "workbench.iconTheme": "material-icon-theme",
     "window.menuBarVisibility": "compact",
     "workbench.colorTheme": "Omni",
@@ -13,13 +20,18 @@ settings vscode
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    
+    
+    
     "emmet.preferences": {
         "emmet.includeLanguages":{
             "javascript":"html",
             "js":"html"
         }
     },
-    "files.associations":{
+    
+    
+    "files.associations": {
         "html":"html",
         "js":"javascript",
         "ts":"typescript"
